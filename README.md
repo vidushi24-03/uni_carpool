@@ -12,6 +12,8 @@ A Flask + SQLite web app that lets university students post long distance trips 
 ## Tech Stack
 -  Python, Flask
 -  SQLite
+-  HTML
+-  Jinja2
 
 ## Running locally
 1. Clone the repository:
